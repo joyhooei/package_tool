@@ -1,0 +1,16 @@
+
+*.d
+
+*.png
+
+*.o
+
+*.cflags
+
+*.so
+
+*.a
+
+*.plist
+
+*.ttf
